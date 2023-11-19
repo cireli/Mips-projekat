@@ -1,0 +1,12 @@
+Aleksandar Cirkovic 
+
+7 samoglasnika
+11 suglasnika
+
+Biramo PORT B jer je broj suglasnika veci od broja samoglasnika.
+
+18 mod 6 = 0
+
+Biramo PIN 0 jer je ostatak pri deljenju zbira slova imena sa 6 jednak 0.
+
+U kodu su ispisane dve while petlje uz pomoc kojih se definisao broj taktova na osnovu broja slova u imenu i prezimenu. Unutar njih je pomocu HAL funkcija definisano paljenje i gasenje diode takodje na osnovu brojevaa slova u imenu i prezimenu.
